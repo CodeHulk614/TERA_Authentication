@@ -1,0 +1,5 @@
+[27-Feb-2025 15:25:13 Europe/Moscow] mail() on [/home/teratest/domains/tera-testing.com/public_html/register.php:18]: To: johndoe@example.com -- Headers:  -- Subject: Email Verification
+[27-Feb-2025 15:36:22 Europe/Moscow] mail() on [/home/teratest/domains/tera-testing.com/public_html/register.php:18]: To: chinecherem614@gmail.com -- Headers:  -- Subject: Email Verification
+[27-Feb-2025 19:19:41 Europe/Moscow] mail() on [/home/teratest/domains/tera-testing.com/public_html/register.php:18]: To: dadeshina2@gmail.com -- Headers:  -- Subject: Email Verification
+[28-Feb-2025 18:38:00 Europe/Moscow] mail() on [/home/teratest/domains/tera-testing.com/public_html/mail.php:7]: To: johndoe@example.com -- Headers: From: no-tera@tera-testing.com  Reply-To: tera@tera-testing.com  Content-Type: text/html; charset=UTF-8 -- Subject: Email Verification
+[28-Feb-2025 18:42:47 Europe/Moscow] mail() on [/home/teratest/domains/tera-testing.com/public_html/mail.php:7]: To: johndoe@example.com -- Headers: From: no-tera@tera-testing.com  Reply-To: tera@tera-testing.com  Content-Type: text/html; charset=UTF-8 -- Subject: Password Reset OTP
